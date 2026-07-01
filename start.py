@@ -1,2 +1,2 @@
-prueba = "mi_string"
-print(len(prueba))
+my_str = "Hello World"
+print(my_str[::-1])
